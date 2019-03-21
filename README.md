@@ -1,2 +1,3 @@
-# Python flask_app demo
+# flask_api
 
+Simple starter api with flask, flask-restful
